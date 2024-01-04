@@ -1,4 +1,0 @@
-<p>
-magick convert *.jpg -crop 1280x640+0+0 -set filename:base "%[basename]" "%[filename:base].png"
-<span class="custom" style="color: magenta; font-weight: bold;">word</span>
-</p>
