@@ -1,0 +1,14 @@
+node_modules/
+*.log
+dist/
+
+# Large media files
+*.gif
+*.mp4
+*.mov
+*.avi
+*.jpg
+*.jpeg
+*.png
+*.webp
+*.svg
